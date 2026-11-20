@@ -1,0 +1,47 @@
+{
+  "Equal weight": {
+    "in_sample": {
+      "Return": 0.19477813524357765,
+      "Volatility": 0.14326242816853865,
+      "Sharpe": 0.9058769762781234
+    },
+    "out_of_sample": {
+      "CAGR": 0.29204017164362694,
+      "Volatility": 0.2283446524924865,
+      "Sharpe": 0.9942872283864739,
+      "Max drawdown": -0.3688411234183008,
+      "Final value of 1": 2.0128026183231924
+    },
+    "holdings": 48
+  },
+  "Min volatility": {
+    "in_sample": {
+      "Return": 0.1593116729950806,
+      "Volatility": 0.10871295589978637,
+      "Sharpe": 0.8675292858564057
+    },
+    "out_of_sample": {
+      "CAGR": 0.17837130255136224,
+      "Volatility": 0.18964771451798887,
+      "Sharpe": 0.5977994664449726,
+      "Max drawdown": -0.26215003343005916,
+      "Final value of 1": 1.5653505287147118
+    },
+    "holdings": 25
+  },
+  "Max Sharpe": {
+    "in_sample": {
+      "Return": 0.34630478271382464,
+      "Volatility": 0.14765359011229195,
+      "Sharpe": 1.9051672397527868
+    },
+    "out_of_sample": {
+      "CAGR": 0.2326797004109209,
+      "Volatility": 0.2347318314225562,
+      "Sharpe": 0.714345810684149,
+      "Max drawdown": -0.3600618173592621,
+      "Final value of 1": 1.7702540114414473
+    },
+    "holdings": 17
+  }
+}
